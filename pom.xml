@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<version>V1</version>
 	<artifactId>AtlassianDemo2</artifactId>
-	<name>AtlassianDemoSample</name>
+	<name>AtlassianDemoSample2</name>
 	<description>atlassian-demo-sample</description>
 	<packaging>war</packaging>
 	<parent>
